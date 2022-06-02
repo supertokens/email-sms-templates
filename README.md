@@ -48,7 +48,7 @@
 
 ### Magic link login
 ```
-${AppName} - Login to your account
+${appname} - Login to your account
 
 Click on this link: ${magicLink}
 
@@ -57,9 +57,9 @@ This is valid for ${time}.
 
 ### OTP login
 ```
-${AppName} - Login to your account
+${appname} - Login to your account
 
-Your OTP to login: ${OTP}
+Your OTP to login: ${otp}
 
 This is valid for ${time}.
 ```
@@ -67,9 +67,9 @@ This is valid for ${time}.
 
 ### Magic link + OTP login
 ```
-${AppName} - Login to your account
+${appame} - Login to your account
 
-Your OTP to login: ${OTP}
+Your OTP to login: ${otp}
 
 OR
 
