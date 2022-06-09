@@ -67,7 +67,7 @@ This is valid for ${time}.
 
 ### Magic link + OTP login
 ```
-${appame} - Login to your account
+${appname} - Login to your account
 
 Your OTP to login: ${otp}
 
