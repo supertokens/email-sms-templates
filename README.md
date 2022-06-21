@@ -8,6 +8,8 @@
     - `${verificationLink}`
     - `${toEmail}`
 
+<img src="https://github.com/supertokens/email-sms-templates/raw/master/images/email-verify-email.png" style="height: 300px"/>
+
 ### Password reset
 - Subject: "Password reset instructions"
 - File content: /email-html/password-reset.html
@@ -15,6 +17,8 @@
     - `${appname}`
     - `${resetLink}`
     - `${toEmail}`
+
+<img src="https://github.com/supertokens/email-sms-templates/raw/master/images/pass-reset-email.png" style="height: 300px"/>
 
 ### Magic link login
 - Subject: "Login to your account"
@@ -25,6 +29,8 @@
     - `${urlWithLinkCode}`
     - `${toEmail}`
 
+<img src="https://github.com/supertokens/email-sms-templates/raw/master/images/magic-link.png" style="height: 300px"/>
+
 ### OTP login
 - Subject: "Login to your account"
 - File content: /email-html/otp-login.html
@@ -33,6 +39,8 @@
     - `${time}`
     - `${toEmail}`
     - `${otp}`
+
+<img src="https://github.com/supertokens/email-sms-templates/raw/master/images/otp-login.png" style="height: 300px"/>
 
 ### Magic link + OTP login
 - Subject: "Login to your account"
@@ -43,6 +51,8 @@
     - `${urlWithLinkCode}`
     - `${toEmail}`
     - `${otp}`
+
+<img src="https://github.com/supertokens/email-sms-templates/raw/master/images/otp-magic-link.png" style="height: 300px"/>
 
 ## SMS
 
