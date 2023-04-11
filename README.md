@@ -54,6 +54,9 @@
 
 <img src="https://github.com/supertokens/email-sms-templates/raw/master/images/otp-magic-link.png" style="height: 300px"/>
 
+## Guide
+- Outlook breaks if the width of the template crosses a specific width, according to mailchimp this dimensions of a mail template should be 600-800
+
 ## SMS
 
 ### Magic link login
